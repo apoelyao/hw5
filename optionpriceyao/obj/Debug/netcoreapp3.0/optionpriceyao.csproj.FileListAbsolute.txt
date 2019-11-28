@@ -1,0 +1,11 @@
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\obj\Debug\netcoreapp3.0\optionpriceyao.csprojAssemblyReference.cache
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\obj\Debug\netcoreapp3.0\optionpriceyao.AssemblyInfoInputs.cache
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\obj\Debug\netcoreapp3.0\optionpriceyao.AssemblyInfo.cs
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\bin\Debug\netcoreapp3.0\optionpriceyao.exe
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\bin\Debug\netcoreapp3.0\optionpriceyao.deps.json
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\bin\Debug\netcoreapp3.0\optionpriceyao.runtimeconfig.json
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\bin\Debug\netcoreapp3.0\optionpriceyao.runtimeconfig.dev.json
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\bin\Debug\netcoreapp3.0\optionpriceyao.dll
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\bin\Debug\netcoreapp3.0\optionpriceyao.pdb
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\obj\Debug\netcoreapp3.0\optionpriceyao.dll
+C:\Users\yaoyu\OneDrive\Desktop\C#\optionpriceyao\optionpriceyao\obj\Debug\netcoreapp3.0\optionpriceyao.pdb
